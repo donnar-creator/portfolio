@@ -1,14 +1,14 @@
 body  {
-  background-color: rgb(250, 253, 209);
+  background-color: beige;
  }
  p      {
    font-family:Arial;
  }
  .welcome  {
    text-align: center;
-   font-size: 30px;
+   font-size: 50px;
    font-weight: bold;
-   color: rgb(1, 62, 1);
+   color: rgb(2, 20, 2);
  }
  .app-title   {
    text-align: center;
