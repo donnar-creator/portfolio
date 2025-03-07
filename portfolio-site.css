@@ -39,6 +39,7 @@ a   {
 
  img   {
       max-width: 800 px;
+      width: 100%;
       height: auto;
       align-items: center;
       margin-bottom:30px;
