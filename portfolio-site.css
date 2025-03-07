@@ -7,6 +7,14 @@ body  {
  p      {
    font-family:Arial;
  }
+@media screen and (max-width: 768px) {
+  iframe {
+    height: 400px; /* Kleinere PDF-Anzeige auf Handys */
+  }
+  .welcome {
+    font-size: 30px; /* Kleinere Schrift auf Mobilgeräten */
+  }
+}
  .welcome  {
    text-align: center;
    font-size: 50px;
