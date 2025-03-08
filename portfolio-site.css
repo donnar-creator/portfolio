@@ -36,8 +36,16 @@ a   {
  .item-title  {
    color: grey;
    font-size:18px;
+    margin-left:20px;
  }
-
+ .photoshop-container  {
+  margin-left:10px;
+  margin-right:10px;
+ }
+ .after-effects-container   {
+  margin-left:10px;
+  margin-right:10px;
+ }
  img   {
       max-width: 800 px;
       width:100%;
